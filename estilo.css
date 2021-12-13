@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+  }
+   
+  html, body{
+    height: 100%;
+    padding: 10px;
+  }
+  
+  h1{
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  h4{
+    margin-top: 10px;
+  }
+  form{
+    display: table-caption;
+    padding: 30px;
+    width: 180px;
+    margin:auto 40vw auto 40vw;
+  }
+  
+  input{
+    padding: 8px;
+  }
+  
+  table{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    height: auto;
+    margin:auto 27vw auto 27vw;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+    padding: 3px;
+  }
+  
+  
+  .containerButton{
+    margin-left: 8px;
+    margin-top: 10px;
+    display: flex;
+  }
+  
+  .button {
+    margin-left: 12px;
+  }
+  
